@@ -1,7 +1,5 @@
 # Jean-Pierre Böhm
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=header" alt="header"/>
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;AI+%26+Web+Technologies+%F0%9F%A4%96" alt="Typing SVG" />
@@ -18,11 +16,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpboehm&theme=blue-green&hide_border=true&stroke=2563EB&ring=2563EB&fire=7C3AED" alt="Contribution Streak"/>
-</div>
-
-<br/>
 
 ```javascript
 const developer = {
