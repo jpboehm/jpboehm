@@ -77,22 +77,6 @@ const developer = {
 <br/>
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jpboehm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=jpboehm&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpboehm&theme=tokyonight&hide_border=true&layout=compact&langs_count=6">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpboehm&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" height="180">
-  </picture>
-</div>
-
-<br/>
-<br/>
 
 ## 🎯 Currently Working On
 
