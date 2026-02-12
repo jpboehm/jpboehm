@@ -1,4 +1,4 @@
-# Jean-Pierre Böhm
+# JP. Böhm
 
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ```javascript
 const developer = {
-    name: "Jean-Pierre Böhm",
+    name: "JP Böhm",
     location: "Deutschland 🇩🇪",
     focus: "Modern Web Applications & AI Integration",
     
